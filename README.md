@@ -1,4 +1,4 @@
-# ISEN_637_Stochastic_Dynamic_Programming
+# ISEN 637 Stochastic Dynamic Programming
 
 This repository contains our semester coursework homework and term project for the subject Stochastic Dyanamic Programming
 
